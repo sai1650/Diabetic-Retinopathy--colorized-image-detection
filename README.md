@@ -3,3 +3,5 @@ Diabetic retinopathy detection using deep learning on retinal images for early i
  it is mainly   focus  on eye problem
 for this i have achived the 90 
 this data collected from kaggle
+we implemented the modals like vision transformers
+
